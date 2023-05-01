@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\personapi-dotnet",
+    "\\personapi-dotnet\\personapi-dotnet",
+    "\\personapi-dotnet\\personapi-dotnet\\Models",
+    "\\personapi-dotnet\\personapi-dotnet\\Models\\Entities"
+  ],
+  "SelectedNode": "\\personapi-dotnet\\personapi-dotnet\\Models\\Entities\\PersonaDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
